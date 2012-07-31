@@ -1,0 +1,24 @@
+/*
+Theme Name: PurelyBalancedWellness
+Theme URI: http://wordpress.paglalakbay.com/purelybalancedwellness/
+Description: PurelyBalancedWellness Child theme for Thesis with responsive capabilities
+Author: Teejay Zheng based on work by Matt Gross, Kolakube - Alex Mangini
+Author URI: http://wordpress.paglalakbay.com
+Template: thesis_185
+Version: 1.0
+*/
+
+
+/*---:[ responsive resets ]:---*/
+
+.format_text img,
+.format_teaser img,
+.format_text iframe,
+.format_text object {
+	max-width: 100%
+}
+
+.format_text img,
+.format_teaser img {
+	height: auto
+}
